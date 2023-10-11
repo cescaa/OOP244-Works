@@ -1,0 +1,14 @@
+﻿Worksop 8
+Reflection
+Anna Francesca Dela Cruz
+
+
+I learned many things about virtual functions last week:
+
+Virtual functions in C++ are like these super cool tools for doing object-oriented programming stuff. They let you make a method in a base class that can be overridden by its derived classes. It's like a magic trick that promotes code reusability, so you don't have to rewrite the same thing over and over.
+
+
+The best part is that they give you this dynamic binding thing. That means when you call a virtual function on an object, it figures out the right implementation to use based on the actual object type, not just the reference type. So, you get flexibility and extensibility, and you can add new features without messing up your old code.
+
+
+But, watch out for the performance side of things. Using virtual functions might slow things down a bit because of the runtime dispatch stuff. So, in super-fast applications, you gotta weigh the pros and cons. Still, overall, virtual functions are like the secret sauce that makes C++ so awesome for building flexible and maintainable projects.

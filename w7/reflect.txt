@@ -1,0 +1,6 @@
+﻿Worksop 7
+Reflection
+Anna Francesca Dela Cruz
+
+
+After doing this workshop, I learned that derived classes in C++ have some great advantages. Firstly, they make your code more efficient by reusing existing code. You can inherit properties and behavior from a base class, so you don't have to write the same thing over and over again. Plus, inheritance helps you organize your classes in a hierarchy that makes your code easier to understand. Furthermore, with derived classes, you can treat different objects as if they belong to the same base class. Secondly, derived classes also let you specialize your code. You can add new stuff or change existing features to fit your specific needs, i.e. virtual functions. Thirdly, derived classes help you break down complex problems into more manageable parts. This makes your code more organized and easier to work with. Lastly, derived classes make your code more flexible and adaptable. You can extend existing code without touching the base class. This can potentially prevent careless bugs. To summarize, derived classes are beneficial because they save time, make code organized, and allow you to customize and expand your code as needed.
