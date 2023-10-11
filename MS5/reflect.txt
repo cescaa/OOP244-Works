@@ -1,0 +1,7 @@
+﻿Milestone Reflection
+
+
+I did not complete         WS10, so I am only reflecting on MS5.
+
+
+Doing the milestones was pretty difficult  because it was so long. It became especially difficult when integrating the modules all together for MS5. It was difficult because I forgot what I wrote in previous weeks. Usually, when I code, I code in a haze and sometimes I don’t always really “know” what I’m typing, especially if I’m trying to submit a few hours before the deadline and I’m dealing with conditional jumps and memory leaks. However, this experience forced me to truly internalize the importance of commenting code and time management. If I managed my time better and appropriately commented on my previous milestones, I believe milestone 5 would have been much easier and faster to complete. Despite my hardships, I’m very proud of what I’ve accomplished. Apart from integrating the code, I also found handling/preventing memory leaks difficult. Working with dynamic memory is one of my weaknesses. I realized I still don’t fully understand when/how constructors initialize. For example, I just learned initialization doesn’t apply to local objects in functions; only objects in main. Although it took me many weeks to know this, I’m glad I did as it will save me from future headaches in the future.

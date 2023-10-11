@@ -1,0 +1,14 @@
+In line number 77 of your output:
+The output should be:
+> 3
+  ^
+But your output is: 
+> 
+   ^
+
+Unmatched character details:
+The character in column 4 is supposed to be:
+  [3] ASCII code(51)
+but you printed
+  [Empty Line] ASCII code(0)
+

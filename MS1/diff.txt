@@ -1,0 +1,14 @@
+In line number 110 of your output:
+The output should be:
+Invalid Selection, try again: 3
+        ^
+But your output is: 
+Invalid selection, try again: 3
+        ^
+
+Unmatched character details:
+The character in column 9 is supposed to be:
+  [S] ASCII code(83)
+but you printed
+  [s] ASCII code(115)
+
